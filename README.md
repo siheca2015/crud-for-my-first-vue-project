@@ -1,2 +1,18 @@
-# crud-for-my-first-vue-project
-This repository allow retrieve information about data used for my first vue project.
+# This repo contains the main Create, Read, Update and delete operations used in my first vue project
+
+Used Technology:
+# Builder
+Maven
+
+# Backend technology
+Spring boot
+Java 8
+
+# Cloud
+MySql data base
+Amazon web services
+
+# Documentation
+Swagger
+
+
